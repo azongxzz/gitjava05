@@ -5,6 +5,7 @@ public class jiangsifang {
        System.out.println("hello word!");
        System.out.println("hello word!");
        System.out.println("hello word!");
+       System.out.println("I love Git!");
     }
     
 }
